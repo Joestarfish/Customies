@@ -1,0 +1,10 @@
+{
+    "name": "customiesdevs/customies",
+    "description": "A PocketMine-MP plugin that implements support for custom blocks, items and entities.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Customiesdevs\\Customies\\": "src/"
+        }
+    }
+}
